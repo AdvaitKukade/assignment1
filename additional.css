@@ -1,0 +1,31 @@
+header nav ul a 
+{
+    display: inline-block;
+}
+
+nav 
+{
+    margin-top: 10px;
+    float: right;
+}
+
+nav ul 
+{
+    padding-left: 0px;
+}
+
+nav a 
+{
+    padding:10px;
+}
+
+ul a
+{
+    width: 40px;
+    height: 40px;
+}
+ 
+i a:hover 
+{
+    background-color: rgba(233, 233, 233, 0.1);
+  }

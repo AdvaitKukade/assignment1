@@ -1,0 +1,33 @@
+
+                            <div class="rectangle1">
+                                    <div class="content">
+                                        <p>Milestone</p>
+                                        <p>24</p>
+                                    </div>
+                                    <div class="image">
+                                        <span><img src="../images/Shape1.png"></span>
+                                    </div>
+                                        <div class="clearfix"></div>
+                            </div>
+
+                            <div class="rectangle1">
+                                    <div class="content">
+                                        <p>Tasks</p>
+                                        <p>137</p>
+                                    </div>
+                                    <div class="image">
+                                        <span><img src="../images/task1.png"></span>
+                                    </div>
+                                    <div class="clearfix"></div>
+                            </div>
+                            
+                            <div class="rectangle1">
+                                    <div class="content">
+                                    <p>Documents</p>
+                                    <p>241</p>
+                                    </div>
+                                    <div class="image">
+                                        <span><img src="../images/docs1.png"></span>
+                                    </div>
+                                    <div class="clearfix"></div>
+                            </div>

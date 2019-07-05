@@ -1,0 +1,34 @@
+*
+{
+    margin:0px auto;
+}
+
+.outer-container
+{
+    width:1200px;
+}
+
+.inner-container
+{
+    width:1200px;
+}
+
+.navigation-bar
+{
+    background-color:#384B59;
+}
+
+a
+{
+    display:inline-block;
+}
+
+nav
+{
+    float:right;
+}
+
+ul
+{
+    list-style-type:none;
+}
